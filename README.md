@@ -1,2 +1,2 @@
-# programmers-start-from-scratch
+## 맨땅에 헤딩하기
 프로그래머스 || 백준
