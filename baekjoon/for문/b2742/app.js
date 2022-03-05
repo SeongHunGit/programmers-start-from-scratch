@@ -5,7 +5,7 @@ solution(Number(input[0]));
 
 // 시간 초과
 function solution(N) {
-  for (let i = 1; i <= N; ++i) {
+  for (let i = N; i >= 1; --i) {
     console.log(i);
   }
 }
