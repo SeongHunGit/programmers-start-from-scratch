@@ -13,3 +13,11 @@ function solution(N, X, A) {
   }
   console.log(answerArray.join(" "));
 }
+
+//  N : 수열을 이루는 정수들
+//  X : 기준점 정수
+//  A : 수열
+
+//  1. answerArray라는 빈 배열을 생성한다.
+//  2. for문은 입력받은 정수 개수만큼 반복한다.
+//  3. 만약 수열 중에서 X보다 작다면 answerArray에 추가한다.
