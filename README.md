@@ -1,5 +1,7 @@
 ## 알고리즘 맨땅에 헤딩하기
 
+<br>
+
 ### 백준
 
 - [1차원 배열](https://github.com/tada-js/programmers-start-from-scratch/tree/main/baekjoon/1%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4)
@@ -10,7 +12,7 @@
 - [입출력과 사칙연산](https://github.com/tada-js/programmers-start-from-scratch/tree/main/baekjoon/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)
 - [함수](https://github.com/tada-js/programmers-start-from-scratch/tree/main/baekjoon/%ED%95%A8%EC%88%98)
 
-<br><br><br>
+<br>
 
 ### 프로그래머스
 
